@@ -1,2 +1,2 @@
-# prisma-cloud-devsecops-workshop
-DevSecOps with Prisma Cloud
+
+DevSecOps with Chekov
